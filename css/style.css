@@ -1,0 +1,65 @@
+
+/* common CSS */
+
+.container{
+    width: 1300px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+/* Header part css */
+#header{}
+.header-inner{}
+#navigation-bar{}
+.logo-container{}
+.logo-container img{}
+.menu-bar{}
+.menu{}
+.menu li{}
+.menu li a{}
+.dropdown-menu{}
+.dd-menu1{}
+.dd-menu2{}
+.dd-menu3{}
+
+
+/* banar part css */
+.banar{}
+.main-heading{}
+.sub-banar-heading{}
+.banar-link{}
+
+/* main part css */
+
+/* servicce sectiion css */
+.service-section{}
+.blogs{}
+.blog-icon{}
+.blog-header{}
+.blog-details{}
+.blog-link{}
+
+/* About us sectiion css */
+
+.about-us{}
+.video{}
+.article-header{}
+.details{}
+.details summary{}
+.details p{}
+.about-us-link{}
+
+.contact{}
+.contact-details{}
+.contact-header{}
+.contact-header input{}
+.contact-header textarea{}
+.btn-submit{}
+.contact-img{}
+.contact-img img{}
